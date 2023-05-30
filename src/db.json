@@ -1,0 +1,28 @@
+{
+    "produtos" : [
+        {
+            "id":1,
+            "nome":"Camisa HIGH",
+            "descrição": "Camisa branca da HIGH",
+            "valoUnitário": 899.99,
+            "estoque": 7,
+            "img": "https://youridstore.com.br/media/catalog/product/cache/1/image/1200x/472321edac810f9b2465a359d8cdc0b5/2/4/245.jpg"
+        },
+        {
+            "id":2,
+            "nome":"Moletom Nike",
+            "descrição": "Moletom preto da nike",
+            "valoUnitário": 1529.99,
+            "estoque": 22,
+            "img": "https://img.irroba.com.br/fit-in/600x600/filters:fill(fff):quality(80)/bergally/catalog/vestuario/moletom-masculino/nike-classic/nike-classico.JPG"
+        },
+        {
+            "id":3,
+            "nome":"Camisa polo Lacoste",
+            "descrição": "Camisa Polo Lacoste Team Performance Medvedev DH850 Branca Marinho e Verde",
+            "valoUnitário": 449.90,
+            "estoque": 30,
+            "img": "https://static.prospin.com.br/media/catalog/product/cache/6e59e4946046b080cb91aa3230980e44/d/h/dh0850-wqm-camisa-polo-lacoste-team-performance-medvedev-dh850-masc.jpg"
+        }
+    ]
+}
